@@ -32,11 +32,11 @@ javascript:(function(){fetch('https://raw.githubusercontent.com/fevberr/debug/re
 
 Explore different parts of any webpage:
 
-* <img src="https://cdn.jsdelivr.net/npm/@tabler/icons/icons/window.svg" width="16"/> Window – View global properties and objects  
-* <img src="https://cdn.jsdelivr.net/npm/@tabler/icons/icons/code.svg" width="16"/> DOM – Inspect elements and structure  
-* <img src="https://cdn.jsdelivr.net/npm/@tabler/icons/icons/link.svg" width="16"/> Links & Forms – Extract interactive elements  
-* <img src="https://cdn.jsdelivr.net/npm/@tabler/icons/icons/palette.svg" width="16"/> Stylesheets – View loaded CSS  
-* <img src="https://cdn.jsdelivr.net/npm/@tabler/icons/icons/database.svg" width="16"/> Custom Variables – Track your own data  
+* <img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.18/24/outline/window.svg" width="16" style="filter:invert(1) brightness(2);"/> Window – View global properties and objects  
+* <img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.18/24/outline/code-bracket.svg" width="16" style="filter:invert(1) brightness(2);"/> DOM – Inspect elements and structure  
+* <img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.18/24/outline/link.svg" width="16" style="filter:invert(1) brightness(2);"/> Links & Forms – Extract interactive elements  
+* <img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.18/24/outline/paint-brush.svg" width="16" style="filter:invert(1) brightness(2);"/> Stylesheets – View loaded CSS  
+* <img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.18/24/outline/circle-stack.svg" width="16" style="filter:invert(1) brightness(2);"/> Custom Variables – Track your own data  
 
 ---
 
@@ -44,11 +44,11 @@ Explore different parts of any webpage:
 
 Quick tools to interact with data:
 
-* <img src="https://cdn.jsdelivr.net/npm/@tabler/icons/icons/copy.svg" width="16"/> Copy – Copy output instantly  
-* <img src="https://cdn.jsdelivr.net/npm/@tabler/icons/icons/device-floppy.svg" width="16"/> Save – Export results  
-* <img src="https://cdn.jsdelivr.net/npm/@tabler/icons/icons/trash.svg" width="16"/> Clear – Reset output  
-* <img src="https://cdn.jsdelivr.net/npm/@tabler/icons/icons/align-left.svg" width="16"/> Wrap – Toggle text wrapping  
-* <img src="https://cdn.jsdelivr.net/npm/@tabler/icons/icons/refresh.svg" width="16"/> Refresh – Reload current data  
+* <img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.18/24/outline/document-duplicate.svg" width="16" style="filter:invert(1) brightness(2);"/> Copy – Copy output instantly  
+* <img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.18/24/outline/arrow-down-tray.svg" width="16" style="filter:invert(1) brightness(2);"/> Save – Export results  
+* <img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.18/24/outline/trash.svg" width="16" style="filter:invert(1) brightness(2);"/> Clear – Reset output  
+* <img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.18/24/outline/bars-3.svg" width="16" style="filter:invert(1) brightness(2);"/> Wrap – Toggle text wrapping  
+* <img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.18/24/outline/arrow-path.svg" width="16" style="filter:invert(1) brightness(2);"/> Refresh – Reload current data  
 
 ---
 
@@ -71,7 +71,7 @@ Quick tools to interact with data:
 ### Credits
 
 * fevber — whole code everything  
-* Tabler Icons — icons  
+* Heroicons — icons  
 
 ---
 
