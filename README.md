@@ -33,11 +33,11 @@ javascript:(function(){fetch('https://raw.githubusercontent.com/fevberr/debug/re
 
 Explore different parts of any webpage:
 
-* <img src="https://raw.githubusercontent.com/tabler/tabler-icons/master/icons/window.svg" width="16"/> **Window** – View global properties and objects
-* <img src="https://raw.githubusercontent.com/tabler/tabler-icons/master/icons/code.svg" width="16"/> **DOM** – Inspect elements and structure
-* <img src="https://raw.githubusercontent.com/tabler/tabler-icons/master/icons/link.svg" width="16"/> **Links & Forms** – Extract interactive elements
-* <img src="https://raw.githubusercontent.com/tabler/tabler-icons/master/icons/palette.svg" width="16"/> **Stylesheets** – View loaded CSS
-* <img src="https://raw.githubusercontent.com/tabler/tabler-icons/master/icons/database.svg" width="16"/> **Custom Variables** – Track your own data
+* <img src="https://static.thenounproject.com/png/windows-icon-8109022-512.png" width="16"/> **Window** – View global properties and objects
+* <img src="https://static.thenounproject.com/png/code-icon-1703091-512.png" width="16"/> **DOM** – Inspect elements and structure
+* <img src="https://static.thenounproject.com/png/link-icon-1721082-512.png" width="16"/> **Links & Forms** – Extract interactive elements
+* <img src="https://static.thenounproject.com/png/palette-icon-6642268-512.png" width="16"/> **Stylesheets** – View loaded CSS
+* <img src="https://static.thenounproject.com/png/database-icon-3459112-512.png" width="16"/> **Custom Variables** – Track your own data
 
 ---
 
@@ -69,4 +69,12 @@ Quick tools to interact with data:
 
 ---
 
+### Credits
+
+* fevber - whole code everything
+* the noun project - icons
+
+---
+
 <br/>
+
