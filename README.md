@@ -1,4 +1,3 @@
-
 ## Bookmarklet
 
 Drag this to your bookmarks bar:
@@ -15,7 +14,7 @@ Create a new bookmark and paste this as the URL:
 
 ```javascript
 javascript:(function(){fetch('https://raw.githubusercontent.com/fevberr/debug/refs/heads/main/jade.js').then(r=>r.text()).then(eval)})();
-````
+```
 
 ---
 
@@ -33,11 +32,11 @@ javascript:(function(){fetch('https://raw.githubusercontent.com/fevberr/debug/re
 
 Explore different parts of any webpage:
 
-* <img src="https://static.thenounproject.com/png/windows-icon-8109022-512.png" width="16"/> **Window** – View global properties and objects
-* <img src="https://static.thenounproject.com/png/code-icon-1703091-512.png" width="16"/> **DOM** – Inspect elements and structure
-* <img src="https://static.thenounproject.com/png/link-icon-1721082-512.png" width="16"/> **Links & Forms** – Extract interactive elements
-* <img src="https://static.thenounproject.com/png/palette-icon-6642268-512.png" width="16"/> **Stylesheets** – View loaded CSS
-* <img src="https://static.thenounproject.com/png/database-icon-3459112-512.png" width="16"/> **Custom Variables** – Track your own data
+* <img src="https://static.thenounproject.com/png/windows-icon-8109022-512.png" width="16" style="filter:invert(1);"/> Window – View global properties and objects  
+* <img src="https://static.thenounproject.com/png/code-icon-1703091-512.png" width="16" style="filter:invert(1);"/> DOM – Inspect elements and structure  
+* <img src="https://static.thenounproject.com/png/link-icon-1721082-512.png" width="16" style="filter:invert(1);"/> Links & Forms – Extract interactive elements  
+* <img src="https://static.thenounproject.com/png/palette-icon-6642268-512.png" width="16" style="filter:invert(1);"/> Stylesheets – View loaded CSS  
+* <img src="https://static.thenounproject.com/png/database-icon-3459112-512.png" width="16" style="filter:invert(1);"/> Custom Variables – Track your own data  
 
 ---
 
@@ -45,36 +44,35 @@ Explore different parts of any webpage:
 
 Quick tools to interact with data:
 
-* <img src="https://raw.githubusercontent.com/tabler/tabler-icons/master/icons/copy.svg" width="16"/> **Copy** – Copy output instantly
-* <img src="https://raw.githubusercontent.com/tabler/tabler-icons/master/icons/device-floppy.svg" width="16"/> **Save** – Export results
-* <img src="https://raw.githubusercontent.com/tabler/tabler-icons/master/icons/trash.svg" width="16"/> **Clear** – Reset output
-* <img src="https://raw.githubusercontent.com/tabler/tabler-icons/master/icons/align-left.svg" width="16"/> **Wrap** – Toggle text wrapping
-* <img src="https://raw.githubusercontent.com/tabler/tabler-icons/master/icons/refresh.svg" width="16"/> **Refresh** – Reload current data
+* <img src="https://static.thenounproject.com/png/copy-icon-1433303-512.png" width="16" style="filter:invert(1);"/> Copy – Copy output instantly  
+* <img src="https://static.thenounproject.com/png/save-icon-3490456-512.png" width="16" style="filter:invert(1);"/> Save – Export results  
+* <img src="https://static.thenounproject.com/png/trash-icon-3571711-512.png" width="16" style="filter:invert(1);"/> Clear – Reset output  
+* <img src="https://static.thenounproject.com/png/text-wrap-icon-2561394-512.png" width="16" style="filter:invert(1);"/> Wrap – Toggle text wrapping  
+* <img src="https://static.thenounproject.com/png/refresh-icon-1099583-512.png" width="16" style="filter:invert(1);"/> Refresh – Reload current data  
 
 ---
 
 ### UI & Design
 
-* Clean interface with built-in SVG icons
-* Tab-based layout for easy navigation
-* Lightweight and responsive
+* Clean interface with built-in SVG-style icons  
+* Tab-based layout for easy navigation  
+* Lightweight and responsive  
 
 ---
 
 ### Compatibility
 
-* Works on any website
-* Fully self-contained (no dependencies)
-* Runs directly from a bookmarklet
+* Works on any website  
+* Fully self-contained (no dependencies)  
+* Runs directly from a bookmarklet  
 
 ---
 
 ### Credits
 
-* fevber - whole code everything
-* the noun project - icons
+* fevber — whole code everything  
+* The Noun Project — icons  
 
 ---
 
 <br/>
-
