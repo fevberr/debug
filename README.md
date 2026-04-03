@@ -71,7 +71,8 @@ Quick tools to interact with data:
 ### Credits
 
 * fevber — whole code everything  
-* Heroicons — icons  
+* Heroicons — icons on README.md
+* fontawsome - icons on the main code
 
 ---
 
